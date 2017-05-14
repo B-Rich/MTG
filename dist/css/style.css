@@ -1,0 +1,25 @@
+.px1 {
+  padding-left: 1.618;
+  padding-right: 1.618; }
+
+.mx1 {
+  margin-left: 1.618;
+  margin-right: 1.618; }
+
+.py1 {
+  padding-top: 1.618;
+  padding-bottom: 1.618; }
+
+.my1 {
+  margin-top: 1.618;
+  margin-bottom: 1.618; }
+
+.ratio {
+  line-height: 1.618;
+  font-size: 1; }
+
+body {
+  line-height: 1.618;
+  font-size: 1; }
+
+/*# sourceMappingURL=style.css.map */
