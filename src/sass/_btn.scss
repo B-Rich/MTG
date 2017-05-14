@@ -1,0 +1,14 @@
+.btn {
+    display: inline-block;
+    padding: $global-unit / 2;
+    border-radius: $border-radius;
+}
+
+.btn-primary {
+    @include btn($primary-color);
+    color:#FFF;
+}
+.btn-secondary {
+    @include btn($secondary-color);
+    color: #000;
+}

@@ -1,0 +1,21 @@
+.container {
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media(max-width: 1400px) {
+    .container {
+        width: 1170px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+@media(max-width: 1200px) {
+    .container {
+        width: 992px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
